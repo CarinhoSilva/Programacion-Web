@@ -1,0 +1,48 @@
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.cv ol,ul,h1{
+  color: #D0C5FA; /*dark grey*/
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+.deportes ol,ul,h1,h2,h3{
+  color: #000000; /*dark grey*/
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+.cine h1,h2,h3,ol,ul{
+  color: #00FF00; /*dark grey*/
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+.page{
+	width:600px;
+	margin: 0 auto;
+}
+
+.head{
+    display:flex;
+    justify-content:space-around;
+    height:400px;
+}
+h5{
+    font-size:50px;
+    
+    
+}
